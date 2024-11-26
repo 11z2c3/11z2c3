@@ -1,8 +1,8 @@
 # hi 你好  欢迎光临我的主页
-<!--
 
 
-Here are some ideas to get you started:
+
+###                                                     我是闯闯，一个努力进步的编程爱好者，感谢你的光临🚀
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
